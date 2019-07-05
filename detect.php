@@ -1,5 +1,5 @@
 <?php
-Class CheckZgi{
+Class CheckZawgyi{
 public static function isZawgyi($testString)
 {
     $zawgyiRegex1 = 'ေျ' // e+medial ra
